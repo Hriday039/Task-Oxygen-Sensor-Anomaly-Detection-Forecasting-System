@@ -668,7 +668,7 @@ timestamp,equipment_id,system_id,oxygen_saturation
 
 ## Limitations & Improvements
 
-### ⚠️ Current Limitations
+### Current Limitations
 
 #### Cold Start Problem
 
@@ -688,7 +688,7 @@ timestamp,equipment_id,system_id,oxygen_saturation
 - May require tuning per customer or equipment class
 - **Mitigation:** Implement dynamic thresholding (see improvements below)
 
-### 🚀 Proposed Improvements
+### Proposed Improvements
 
 #### Deep Learning (LSTM/Transformer)
 
